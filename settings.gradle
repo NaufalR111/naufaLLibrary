@@ -1,0 +1,3 @@
+include ':naufaLLibrary'
+include ':app'
+rootProject.name = "LibraryKu"
